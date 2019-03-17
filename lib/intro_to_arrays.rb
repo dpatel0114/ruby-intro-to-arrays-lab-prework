@@ -4,5 +4,5 @@ end
 
 def array_with_two_elements
   Array=[element, element]
-  return 
+  return 2 objects
 end
