@@ -3,6 +3,6 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  Array=[element, element]
-  return 2 objects
+  Array=[1,2]
+
 end
